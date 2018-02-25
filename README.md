@@ -5,6 +5,7 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [Create a digital greeter](https://ethereum.org/greeter) - Build a Hello World contract on the ethereum command line.
 - [Cryptozombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
 - [Solidity Doc](http://solidity.readthedocs.io/en/develop/) - Official solidity documentation.
+- [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - a framework to build secure smart contracts on Ethereum.
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
