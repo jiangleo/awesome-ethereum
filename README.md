@@ -6,6 +6,7 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [Cryptozombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
 - [Solidity Doc](http://solidity.readthedocs.io/en/develop/) - Official solidity documentation.
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - a framework to build secure smart contracts on Ethereum.
+- [Truffle](https://github.com/trufflesuite/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
@@ -21,7 +22,12 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [区块链技术是信任机器](https://mp.weixin.qq.com/s/fwy0iC-N4pBbEjXpgnOlLg) - 从技术角度解释区块链的可信任特性。
 - [我的区块链第一性原理](https://mp.weixin.qq.com/s/lBK499VrlJPKYd2XDvBQKg) - 从激励角度解释区块链的可大规模协作的特性。
 - [瑞士金融市场监督管理局2018年2月16日颁布ICO指南通稿](https://mp.weixin.qq.com/s/-xcy0KywJfQC-kjQM78CPg) - 从法律角度对区块链 Token 进行定义。
+- [Teahour 以太坊专访](http://ethfans.org/shaoping/articles/talk-with-jan-about-ehtereum) - 用通俗的、类比的方式介绍了以太坊历史、愿景和实现原理。
 
 ## Other cool lists
 - [awesome-solidity](https://github.com/bkrem/awesome-solidity) - A curated list of awesome Solidity resources, libraries, tools and more
 - [eth-dev-reading-list](https://github.com/yippee-ki-yay/eth-dev-reading-list) - A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack.
+
+## todo
+- 将所有的英文介绍，改成中文介绍。
+
