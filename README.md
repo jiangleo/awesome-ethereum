@@ -8,6 +8,7 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity) - a framework to build secure smart contracts on Ethereum.
 - [Truffle](https://github.com/trufflesuite/truffle) - Truffle is a development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier.
 - [Remix](https://remix.ethereum.org) - 官方推荐的网页版 IDE，适合学习 Solidity 编程和开发小型合同。
+- [IntelliJ Solidity](https://plugins.jetbrains.com/plugin/9475-intellij-solidity) - Solidity 插件，支持 IntelliJ IDEA 、 PhpStorm 、 WebStorm 等。
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
