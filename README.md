@@ -10,6 +10,7 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [Remix](https://remix.ethereum.org) - 官方推荐的网页版 IDE，适合学习 Solidity 编程和开发小型合同。
 - [IntelliJ Solidity](https://plugins.jetbrains.com/plugin/9475-intellij-solidity) - Solidity 插件，支持 IntelliJ IDEA 、 PhpStorm 、 WebStorm 等。
 - [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) - 这篇文档旨在为 Solidity 开发人员提供一些智能合约的安全准则(security baseline)。
+- [Solidity 中文文档](http://www.tryblockchain.org/) - 最好的 Solidity 中文文档，由 tryblockchain 翻译。
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
