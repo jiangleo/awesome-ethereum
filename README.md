@@ -11,7 +11,7 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [IntelliJ Solidity](https://plugins.jetbrains.com/plugin/9475-intellij-solidity) - Solidity 插件，支持 IntelliJ IDEA 、 PhpStorm 、 WebStorm 等。
 - [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) - 这篇文档旨在为 Solidity 开发人员提供一些智能合约的安全准则(security baseline)。
 - [Solidity 中文文档](http://www.tryblockchain.org/) - 最好的 Solidity 中文文档，由 tryblockchain 翻译。
-- [Web3 文档](https://github.com/ethereum/wiki/wiki/JavaScript-API) - Web3 提高了 web 与 Ethereum 网络交互的接口。
+- [Web3 文档](https://web3js.readthedocs.io/en/1.0/getting-started.html) - Web3 提高了 web 与 Ethereum 网络交互的接口。
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
