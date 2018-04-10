@@ -12,6 +12,9 @@ A curated list of awesome Ethereum tutorials, articles, and resources.
 - [以太坊智能合约 —— 最佳安全开发指南](https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md) - 这篇文档旨在为 Solidity 开发人员提供一些智能合约的安全准则(security baseline)。
 - [Solidity 中文文档](http://www.tryblockchain.org/) - 最好的 Solidity 中文文档，由 tryblockchain 翻译。
 - [Web3 文档](https://web3js.readthedocs.io/en/1.0/getting-started.html) - Web3 提高了 web 与 Ethereum 网络交互的接口。
+- [Myetherwallet](https://www.myetherwallet.com/) - 网页版钱包。最重要的开发功能在 contracts 菜单中，可以用于调用链上智能合约的函数。
+- [小狐狸 Metamask](https://metamask.io/) - 浏览器插件。为 Chrome 等主流浏览器增加访问以太坊网络的能力。
+- [Ganache(原名 testrpc)](http://truffleframework.com/ganache/) - 基于 JavaScript 区块链“模拟器”。不需要挖矿，出块瞬间完成，通常与Truffle 配合使用，用于本地开发调试。
 
 ## Ethereum
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - Explain how Ethereum functions at a technical level, without complex math or scary-looking formulas.
